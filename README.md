@@ -9,7 +9,7 @@ Todo o ambiente local pode ser executado com um único comando Docker Compose.
 
 ## 🔍 Diagrama
 
-![ER Diagram](docs/er-diagram.png)
+![ER Diagram](er-diagram.png)
 
 ---
 
